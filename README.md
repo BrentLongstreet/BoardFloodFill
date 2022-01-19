@@ -1,6 +1,6 @@
 # BoardFloodFill
 
-A board game that utilizes recursion to light the surrounding around the player.
+A board game that utilizes recursion to light the player's surrounding.
 
 # What I Learned
 
